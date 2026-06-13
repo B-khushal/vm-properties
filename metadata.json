@@ -1,0 +1,6 @@
+{
+  "name": "VM Properties",
+  "description": "VM PROPERTIES - Premium luxury real estate portal featuring commercial, residential, and land listings, dynamic site visits, and an analytical admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

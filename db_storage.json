@@ -1,0 +1,475 @@
+{
+  "properties": [
+    {
+      "id": "luxury-villa-hyderabad",
+      "title": "The Golden Crest Villa",
+      "type": "Residential",
+      "category": "Villa",
+      "price": 85000000,
+      "location": "Jubilee Hills, Hyderabad",
+      "address": "Road No. 12, Jubilee Hills, Hyderabad, Telangana 500033",
+      "area": 7500,
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "parking": 4,
+      "description": "An architectural marvel nestled in the premium high-streets of Jubilee Hills. The Golden Crest Villa boasts premium gold accented hardware, majestic double-height ceilings, a temperature-controlled infinity pool overlooking the city landscape, private home theater, automated smart surveillance, and a fully equipped state-of-the-art gym. Crafted with handcoded Spanish marble and pristine floor-to-ceiling glass panel windows, it offers unmatched grandeur.",
+      "images": [
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "videos": [
+        "https://www.w3schools.com/html/mov_bbb.mp4"
+      ],
+      "floorPlanUrl": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=80",
+      "status": "For Sale",
+      "featured": true,
+      "amenities": [
+        "Swimming Pool",
+        "Club House",
+        "Security",
+        "Gym",
+        "Power Backup",
+        "Parking",
+        "Lift",
+        "Garden",
+        "Children Play Area"
+      ],
+      "nearbyPlaces": [
+        {
+          "name": "Oakridge International School",
+          "type": "School",
+          "distance": "2.5 km"
+        },
+        {
+          "name": "Apollo Hospitals",
+          "type": "Hospital",
+          "distance": "1.2 km"
+        },
+        {
+          "name": "Jubilee Hills Checkpost Metro",
+          "type": "Metro",
+          "distance": "0.8 km"
+        },
+        {
+          "name": "GVK One Luxury Mall",
+          "type": "Shopping",
+          "distance": "3.5 km"
+        }
+      ],
+      "seoTitle": "Ultra Luxury 5 BHK Villa in Jubilee Hills | VM Properties",
+      "seoDescription": "Exclusive 5 BHK mansion at Road No. 12 Jubilee Hills Hyderabad. Private pool, personal gym, home theater, fully smart automation. Enquire with VM Properties today.",
+      "views": 1337
+    },
+    {
+      "id": "regent-heights-penthouse",
+      "title": "Regent Heights Twin Penthouse",
+      "type": "Residential",
+      "category": "Apartment",
+      "price": 45000000,
+      "location": "Gachibowli, Hyderabad",
+      "address": "Tower C, Regent Heights, Financial District, Hyderabad 500032",
+      "area": 4800,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "parking": 3,
+      "description": "A stunning suspended twin penthouse situated atop Gachibowli's modern skyline line. Featuring panoramic sunset views, private terrace garden, Italian modular kitchen, imported marble flooring, and exclusive direct elevator entry. This residence combines the safety of an elite high-rise gated community with the spatial indulgence of an estate home.",
+      "images": [
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "videos": [],
+      "floorPlanUrl": "",
+      "status": "For Sale",
+      "featured": true,
+      "amenities": [
+        "Swimming Pool",
+        "Club House",
+        "Security",
+        "Gym",
+        "Power Backup",
+        "Parking",
+        "Garden"
+      ],
+      "nearbyPlaces": [
+        {
+          "name": "Chirec International School",
+          "type": "School",
+          "distance": "1.8 km"
+        },
+        {
+          "name": "Continental Hospital",
+          "type": "Hospital",
+          "distance": "0.5 km"
+        },
+        {
+          "name": "Raidurg Metro Station",
+          "type": "Metro",
+          "distance": "2.1 km"
+        },
+        {
+          "name": "Inorbit Mall",
+          "type": "Shopping",
+          "distance": "3.2 km"
+        }
+      ],
+      "seoTitle": "Sky Penthouse in Gachibowli Hyderabad | VM Properties",
+      "seoDescription": "Beautiful 4 BHK duplex twin penthouse on high floor with gorgeous city views, private terrace in Gachibowli Financial District. Book private viewing.",
+      "views": 890
+    },
+    {
+      "id": "empire-office-suites",
+      "title": "Empire Corporate Office Suites",
+      "type": "Commercial",
+      "category": "Office",
+      "price": 32000000,
+      "location": "Hitech City, Hyderabad",
+      "address": "Level 14, Empire Towers, Hitech City, Hyderabad 500081",
+      "area": 3200,
+      "bedrooms": 0,
+      "bathrooms": 2,
+      "parking": 2,
+      "description": "Premium A-grade office suites configured for scalable business headquarters. Features executive conference boardrooms, custom acoustic glass partitioning, high-speed fiber lines, fully automated HVAC and power backup, luxurious reception lobby, and dedicated reserved multi-layer parking levels.",
+      "images": [
+        "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "videos": [],
+      "floorPlanUrl": "",
+      "status": "For Rent",
+      "featured": true,
+      "amenities": [
+        "Security",
+        "Power Backup",
+        "Parking",
+        "Lift"
+      ],
+      "nearbyPlaces": [
+        {
+          "name": "IIIT Hyderabad College",
+          "type": "School",
+          "distance": "3.0 km"
+        },
+        {
+          "name": "Medicover Hospitals",
+          "type": "Hospital",
+          "distance": "1.0 km"
+        },
+        {
+          "name": "Hitech City Metro",
+          "type": "Metro",
+          "distance": "0.3 km"
+        },
+        {
+          "name": "IKEA Hyderabad Store",
+          "type": "Shopping",
+          "distance": "0.8 km"
+        }
+      ],
+      "seoTitle": "Exclusive A-grade Office space in Hitech City | VM Properties",
+      "seoDescription": "Ready-to-occupy fully certified smart corporate office setup in Empire Towers Hitech City. High speed connections, executive layouts. Call VM Properties.",
+      "views": 654
+    },
+    {
+      "id": "emerald-glen-plots",
+      "title": "Emerald Glen Prime Estate Plots",
+      "type": "Land",
+      "category": "Residential Plot",
+      "price": 18000000,
+      "location": "Mokila, Hyderabad",
+      "address": "Phase 2, Emerald Glen Premium Gated Ranch, Mokila, Telangana 501503",
+      "area": 5400,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "parking": 0,
+      "description": "A rare opportunity to manifest your bespoke residence in a luxurious, heavily landscaped gated development. Fully legal, DTCP approved, premium open lands equipped with wide world-class blacktar roads, complete water/sewage network, 24/7 security boundary walls, and a magnificent shared sports clubhouse complex.",
+      "images": [
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "videos": [],
+      "floorPlanUrl": "",
+      "status": "For Sale",
+      "featured": false,
+      "amenities": [
+        "Club House",
+        "Security",
+        "Power Backup",
+        "Garden",
+        "Children Play Area"
+      ],
+      "nearbyPlaces": [
+        {
+          "name": "Indus International School",
+          "type": "School",
+          "distance": "4.5 km"
+        },
+        {
+          "name": "Kokapet Lifeline Clinic",
+          "type": "Hospital",
+          "distance": "6.0 km"
+        },
+        {
+          "name": "Nagulapalli Train Station",
+          "type": "Metro",
+          "distance": "5.2 km"
+        },
+        {
+          "name": "Neopolis Commercial Highstreet",
+          "type": "Shopping",
+          "distance": "8.0 km"
+        }
+      ],
+      "seoTitle": "Luxury Residential Plots in Mokila Hyderabad | VM Properties",
+      "seoDescription": "Clear title, high appreciation land plots in Mokila Hyderabad. Underground utilities, complete compound walls, premium landscaping in gated layout.",
+      "views": 521
+    },
+    {
+      "id": "marquis-industrial-warehouse",
+      "title": "Marquis Premium Logistical Hub",
+      "type": "Commercial",
+      "category": "Warehouse",
+      "price": 120000000,
+      "location": "Medchal, Hyderabad",
+      "address": "Main Highway Hub Road, Medchal Industrial Area, Hyderabad 501401",
+      "area": 25000,
+      "bedrooms": 0,
+      "bathrooms": 4,
+      "parking": 10,
+      "description": "Enterprise-grade industrial warehousing property with modern docks, high structural load-bearing epoxy flooring, automated security systems, fire sprinkler protection, double-height clearance, and extensive maneuver space for multiple cargo trailers.",
+      "images": [
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "videos": [],
+      "floorPlanUrl": "",
+      "status": "For Sale",
+      "featured": false,
+      "amenities": [
+        "Security",
+        "Power Backup",
+        "Parking"
+      ],
+      "nearbyPlaces": [
+        {
+          "name": "Medchal Govt School",
+          "type": "School",
+          "distance": "3.2 km"
+        },
+        {
+          "name": "RR Multi-specialty Clinic",
+          "type": "Hospital",
+          "distance": "2.1 km"
+        },
+        {
+          "name": "Gundlapochampally Metro Hub",
+          "type": "Metro",
+          "distance": "4.8 km"
+        },
+        {
+          "name": "Medchal Wholesale Center",
+          "type": "Shopping",
+          "distance": "1.5 km"
+        }
+      ],
+      "seoTitle": "Medchal Warehouse Logistical Space For Sale | VM Properties",
+      "seoDescription": "Industrial warehouse land & construction of 25,000 sq ft near Medchal highway, superb logistics connectivity. High clearance docks.",
+      "views": 310
+    }
+  ],
+  "projects": [
+    {
+      "id": "vm-aurum-residencies",
+      "name": "VM AURUM RESIDENCIES",
+      "location": "Kondapur, Hyderabad",
+      "status": "Under Construction",
+      "description": "Master-crafted ultra-modern 3 & 4 BHK signature apartments with beautiful hanging vertical gardens, private sky lounges, and premium design features.",
+      "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=800&q=80",
+      "completionDate": "December 2027"
+    },
+    {
+      "id": "vm-elysium-villas",
+      "name": "VM ELYSIUM GRAND",
+      "location": "Kokapet, Hyderabad",
+      "status": "New Launch",
+      "description": "An elite limited-collection compound consisting of 24 imperial luxury smart-villas, engineered using pure sustainable solar and biometric technologies.",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
+      "completionDate": "June 2029"
+    },
+    {
+      "id": "vm-monarch-complex",
+      "name": "VM MONARCH HYBRID TOWER",
+      "location": "Financial District, Hyderabad",
+      "status": "Ready to Move",
+      "description": "An iconic soaring award-winning building housing pre-installed tier-1 commercial retail shops in the base and exclusive smart business suites above.",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80",
+      "completionDate": "Completed"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g1",
+      "title": "Sunset Sky Lounge at Golden Crest",
+      "category": "Property",
+      "imageUrl": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "g2",
+      "title": "VM Monolith Executive Boardroom",
+      "category": "Property",
+      "imageUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "g3",
+      "title": "VM Aurum Groundbreaking Ceremony",
+      "category": "Event",
+      "imageUrl": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "g4",
+      "title": "Handover Cocktail Meet of VM Monarch",
+      "category": "Event",
+      "imageUrl": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "g5",
+      "title": "Architectural Exterior of Elysium Villas",
+      "category": "Project",
+      "imageUrl": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "g6",
+      "title": "Italian Marble Suite Bathroom",
+      "category": "Property",
+      "imageUrl": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "investing-hyderabad-real-estate",
+      "title": "Why Hyderabad remains India's Top Luxury Destination",
+      "excerpt": "Discover the critical micro-market dynamics pushing Hyderabad estate prices of top layouts over other metropolitan hotspots.",
+      "content": "## The Emergence of World Class High-Rises\n\nHyderabad's real estate sector has witnessed an unprecedented transformation over the last decade. Backed by solid political direction, expansive infrastructural works like the Regional Ring Road (RRR), and the skyrocketing valuation of its core IT micro-markets, Hyderabad has established itself as India's crown jewel for real estate appreciation.\n\n### Key Appreciation Drivers:\n1. **Unified Infrastructure**: The outer ring road has integrated isolated regions, easing daily commutation from distant suburbs to main offices.\n2. **High Wealth Creation**: High-salaried tech workers and returning NRI investors are actively targeting the top tier complexes.\n3. **Land Accessibility**: The government's clear regulations and proactive building permits pipeline has made premium developments highly transparent and frictionless.\n\nInvesting in locales such as Mokila, Jubilee Hills, and Financial District is no longer an optional luxury—it's a critical financial move for long-term multi-generational returns.",
+      "author": "Vidhya Murthy",
+      "publishDate": "2026-05-18",
+      "category": "Investment Tips",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Hyderabad",
+        "Luxury Homes",
+        "Investment Guide",
+        "Real Estate Trends"
+      ],
+      "seoTitle": "Hyderabad Luxury Estate Investment Guide 2026 | VM Properties",
+      "seoDescription": "In-depth insights into why Jubilee Hills, Kokapet, and Mokila are appreciating rapidly. Read market reports by Vidhya Murthy at VM Properties."
+    },
+    {
+      "id": "smart-home-features-luxury",
+      "title": "Essential Smart Tech Features for Your Premium Home",
+      "excerpt": "Unveil the top five smart home security and environmental system upgrades that defining multi-million dollar luxury modern listings.",
+      "content": "## The Connoisseur’s Smart Home\n\nLuxury is not merely defined by premium marble or gold trimmings; it is centered around personal comfort and seamless, intuitive living. Today's premium homes rely heavily on modern smart grids that operate invisibly to safeguard your family and adjust environments to your individual biorhythms.\n\n### Top High-Tech Integrations:\n- **Biometric Smart Access**: Multi-layer retina scans and secure fingerprint doorlocks linked directly to regional security networks.\n- **Climate Automation**: Adaptive HVAC vents that track moisture patterns and solar heating curves throughout the day.\n- **Voice & Rhythm Accent Lights**: High-contrast, dimmable gold profiles matching day/night circadian transitions.\n\nIntegrating these modern elements enhances not only daily comfort but maintains the secondary valuation scale of modern properties.",
+      "author": "Rohan Khanna",
+      "publishDate": "2026-06-02",
+      "category": "Property Guides",
+      "image": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Smart Homes",
+        "Automation",
+        "Luxury Tech",
+        "Building Guide"
+      ],
+      "seoTitle": "Top Smart Home Systems for Luxury Estates | VM Properties",
+      "seoDescription": "Examine necessary technologies like smart climate automation, automated high-end entry grids, and eco-friendly security hubs."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "clientName": "Madhavan Srinivasan",
+      "role": "Tech Entrepreneur, Silicon Valley",
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80",
+      "review": "Acquiring a home on the other side of the globe can be stressful. The advisors at VM PROPERTIES acted with elite professionalism, guiding our virtual previews and handling all registration protocols flawlessly.",
+      "rating": 5
+    },
+    {
+      "id": "t2",
+      "clientName": "Dr. Ananya Roy",
+      "role": "Senior Consultant Surgeon",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&h=150&q=80",
+      "review": "Their transparency was truly refreshingly unique. Total documentation compliance, verified land plots, and highly helpful site surveys. VM Properties represent absolute security in real estate transactions.",
+      "rating": 5
+    },
+    {
+      "id": "t3",
+      "clientName": "Vikramjit Singh",
+      "role": "Managing Director, VM Holdings",
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80",
+      "review": "We leased an entire office floor at the Financial District via VM Properties. The commercial insights and transaction speed saved us multiple months of local negotiations. Highly recommended.",
+      "rating": 5
+    }
+  ],
+  "leads": [
+    {
+      "id": "l1",
+      "propertyId": "luxury-villa-hyderabad",
+      "propertyName": "The Golden Crest Villa",
+      "name": "Rajesh Kulkarni",
+      "phone": "9876543210",
+      "email": "rajesh.k@gmail.com",
+      "message": "I am interested in scheduling a fast private site visit for this villa next Tuesday in the morning.",
+      "status": "New",
+      "source": "Web Inquiry",
+      "assignedTo": "Agent Vikram",
+      "createdAt": "2026-06-11T12:00:00.000Z"
+    },
+    {
+      "id": "l2",
+      "name": "Sonia Gandhi",
+      "phone": "9988776655",
+      "email": "sonia@yahoo.com",
+      "message": "Direct inquiry looking for premium commercial farm lands in out-skirts of Hyderabad.",
+      "status": "Contacted",
+      "source": "WhatsApp",
+      "assignedTo": "Agent Vikram",
+      "createdAt": "2026-06-10T15:30:00.000Z"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "a1",
+      "propertyId": "luxury-villa-hyderabad",
+      "propertyName": "The Golden Crest Villa",
+      "name": "Rajesh Kulkarni",
+      "phone": "9876543210",
+      "email": "rajesh.k@gmail.com",
+      "date": "2026-06-16",
+      "time": "10:30 AM",
+      "status": "Scheduled",
+      "createdAt": "2026-06-11T12:05:00.000Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "name": "Vidhya Murthy",
+      "email": "vidhya@vmproperties.com",
+      "role": "Admin"
+    },
+    {
+      "id": "u2",
+      "name": "Agent Vikram",
+      "email": "vikram@vmproperties.com",
+      "role": "Agent"
+    },
+    {
+      "id": "u3",
+      "name": "Editor Roy",
+      "email": "roy@vmproperties.com",
+      "role": "Editor"
+    }
+  ],
+  "activityLogs": [],
+  "communicationLogs": []
+}
